@@ -1,0 +1,6 @@
+{
+  "name": "WAKE UP",
+  "description": "منبه ذكي بتصميم فاخر وتحديات حسابية لإيقاظك بفعالية دون إمكانية الإلغاء بسهولة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
